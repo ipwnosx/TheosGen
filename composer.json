@@ -1,0 +1,14 @@
+{
+    "name": "conan/web-based-theos-template-generator",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "1Conan",
+            "email": "me@1conan.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    }
+}
